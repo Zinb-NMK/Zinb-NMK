@@ -9,6 +9,17 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
 
 ---
 
+## 📊 GitHub Stats (Up-to-Date Contributions)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zinb-NMK&count_private=true&show_icons=true&theme=radical)  
+
+### Contribution Heatmap
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zinb-NMK&theme=react-dark)](https://github.com/Zinb-NMK)
+
+
+
+---
+
 ## 🛠️ Skills and Technologies  
 
 ### **Programming Languages**  
@@ -61,3 +72,7 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
 ---
 
 ⭐ Don't forget to check out my repositories and leave a star if you find them useful!
+
+---
+
+### Try it out and let me know if it's working or if you want to change the **theme** or **stats style**! 😊
