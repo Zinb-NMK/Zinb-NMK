@@ -75,4 +75,3 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
 
 ---
 
-### Try it out and let me know if it's working or if you want to change the **theme** or **stats style**! 😊
