@@ -9,9 +9,9 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
 
 ---
 
-## 📊 GitHub Stats (Up-to-Date Contributions)  
+<!--## 📊 GitHub Stats (Up-to-Date Contributions)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zinb-NMK&count_private=true&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zinb-NMK&count_private=true&show_icons=true&theme=radical)  -->
 
 ### Contribution Heatmap
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zinb-NMK&theme=react-dark)](https://github.com/Zinb-NMK)
