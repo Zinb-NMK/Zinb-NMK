@@ -3,8 +3,8 @@
 ## 🚀 About Me  
 I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.Tech in CSE-AI at Parul University**. My passion lies in building intelligent systems, solving real-world problems with data, and exploring cutting-edge advancements in AI and web technologies.
 
-- 🌟 **Current Focus**: Learning advanced AI architectures and web development.  
-- 🧠 **Interests**: Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.  
+- 🌟 **Current Focus**: Learning advanced AI architectures, SAP ABAP, and web development.  
+- 🧠 **Interests**: Artificial Intelligence, Machine Learning, SAP ABAP, Data Science, and Full-Stack Development.  
 - 🌍 **Goal**: To contribute to impactful projects that shape a better future through technology.  
 
 ---
@@ -16,8 +16,6 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
 ### Contribution Heatmap
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zinb-NMK&theme=react-dark)](https://github.com/Zinb-NMK)
 
-
-
 ---
 
 ## 🛠️ Skills and Technologies  
@@ -27,6 +25,7 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
 ### **Web Development**  
@@ -47,6 +46,15 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
   <img src="https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
+### **SAP Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP-ECC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-DDIC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-SE11-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-GUI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
+
 ### **Databases**  
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -59,6 +67,7 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20GUI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
 ---
@@ -73,4 +82,3 @@ I'm an aspiring **developer** and **AI/ML enthusiast** currently pursuing a **B.
 ⭐ Don't forget to check out my repositories and leave a star if you find them useful!
 
 ---
-
